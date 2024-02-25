@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>السياسة</title>
+    <link href="style.css/style2.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"></head>
+</head>
+<body >
+  <nav class="navbar navbar-expand-md navbar-light bg-info">
+    <div class="container">
+    <a class="navbar-brand text-white" href="قائمة التفضيلات.php">
+      <img src="img/logo/حصل ! (6).png" width="60" height="40" class="d-inline-block align-top" alt=" logo">
+      حصل 
+    </a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link text-white" href="قائمة التفضيلات.php">الرئيسية <span class="sr-only"></span></a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="سياسه.php" >السياسه</a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="رياضة.php" >رياضة</a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="صحه.php" >الصحة</a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="محتوى التعليم.php" >التعليم</a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="محتوى الطقس.php" >الطقس</a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="وظايف.php
+        " >وظائف</a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="اقتصاد.php" >اقتصاد</a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="مقالات.php" >مقالات</a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="تقنية.php" >تقنية</a>
+      </li>
+      <li class="nav-item">
+        <a  class="nav-link text-white" href="ثقافة.php" >ثقافة</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-white" id="navbarDropdown"
+        role="button" data-bs-toggle="dropdown" aria-expanded="false" href="#">الحساب</a>
+        <ul class="dropdown-menu bg-info"
+        aria-labelledby="navbarDropdown">
+      <li> <a href="معلومات الحساب.php" class="dropdown-item text-white"> معلومات الحساب</a>
+      </li>
+      <li> <a href="تسجيل الدخول.HTML" class="dropdown-item text-white"> تسجيل الخروج</a>
+      </li>
+    </ul>
+      
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">soon</a>
+      </li>
+    </ul>
+  </div>
+  </div>
+  </nav>
+  <div class="container h-1000">
+    <div class="row d-flex justify-content-center align-items-center h-1000">
+      <div class="col-lg-12 col-xl-11">
+        <div class="card text-white" style="border-color: rgb(255, 255, 255);">
+          <div class="card-body p-md-5" style="background-color: white;">
+            <div class="row justify-content-center">
+              <div class="col-md-10 col-lg-7 col-xl-7 order-2 order-lg-1">
+                <ul class="list-group">
+                  <div class="list-group" style="background-color: white;">
+                    <a href="https://haraj.com.sa/1157747872/%D9%85%D8%B5%D9%85%D9%85_%D8%B5%D9%88%D8%B1_%D8%A7%D8%B9%D9%84%D8%A7%D9%86_%D9%85%D8%B5%D9%85%D9%85_%D8%A7%D8%B9%D9%84%D8%A7%D9%86" class="list-group-item list-group-item-action"  >
+                      <div class="d-flex w-100 justify-content-between">
+                      </div>
+                      <p class="mb-1">          <br>      <img src="https://img4cdn.haraj.com.sa/userfiles30/2020-05-29/800x800-1_-GO__MTU5MDc2NDE0NTU4NTM4Mzk2NjYwMQ.jpg" class="rounded" width="600px" height="500px"></p>
+                      <small>اعلان</small>
+                    </a>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        </ul>
+      </div>
+                  
+
+    <div class="list-group">
+      <a href="محتوى اخبار.php" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-1">يشير التقرير إلى أن بوتين أقر أول مرة ببدء الهجوم الأوكراني المضاد في 9 يونيو</h5>
+          <small>10 months ago</small>
+        </div>
+        <p class="mb-1">إجمالي خسائر اوكرانيا في سبتمبر 17ألف قتيل          <br>      <img src="img/logo/شويغو.png" class="rounded" width="350px" height="100px"></p>
+        <small>نبض</small>
+      </a>
+      <a href="محتوى اخبار6.php" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <!--اكتب رأس قلم الخبر في السطر التالي في مكان (List group item heading)-->
+          <h5 class="mb-1">سياسيون مصريون لـ«عكاظ»</h5>
+          <!--اكتب متى تم عرض الخبر-->
+          <small class="text-muted">5 days ago</small>
+        </div>
+        <!--اكتب في السطر التالي نبذه عن الخبر -->
+        <p class="mb-1">أكد عدد من المسؤولين والسياسيين المصريين لـ«عكاظ» أن اليوم الوطني السعودي هو يوم لكل العرب والمسلمين عموماً والمصريين<br> <img src="https://www.okaz.com.sa/uploads/images/2023/09/23/2158404.jpg" class="rounded" width="350px" height="100px"></p></p>
+        <!--اكتب مصدر الخبر-->
+        <small class="text-muted">SkyNews.</small>
+      </a>
+      <a href="محتوى صحه.php" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <!--اكتب رأس قلم الخبر في السطر التالي في مكان (List group item heading)-->
+          <h5 class="mb-1">منظمة الصحة العالمية تؤكد أن المناعة الجماعية ضد فيروس كورونا لن تتحقق في 2021
+          </h5>
+          <!--اكتب متى تم عرض الخبر-->
+          <small class="text-muted">3 days ago</small>
+        </div>
+                <!--اكتب في السطر التالي نبذه عن الخبر -->
+        <p class="mb-1">قالت المسؤولة العلمية في منظمة الصحة العالمية سمية سواميناثان من جنيف إنه "لن نبلغ (...) المناعة الجماعية في 2021". <br> <img src="https://s.france24.com/media/display/ce0decf8-f354-11ea-864a-005056bf87d6/w:1280/p:1x1/20af629acc766ed3645f716c783e1dbfb29a367a.jpg" class="rounded" width="350px" height="100px"></p></p>
+        <!--اكتب مصدر الخبر-->
+        <small class="text-muted">نبض.</small>
+      </a>
+      <a href="محتوى صحه3.php" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <!--اكتب رأس قلم الخبر في السطر التالي في مكان (List group item heading)-->
+          <h5 class="mb-1">“الصحة”: تحدد مدة القيلولة المسموح بها وتوقيتها المناسب
+          </h5>
+          <!--اكتب متى تم عرض الخبر-->
+          <small class="text-muted">6 days ago</small>
+        </div>
+                <!--اكتب في السطر التالي نبذه عن الخبر -->
+        <p class="mb-1">حددت وزارة الصحة، مدة القيلولة المسموح بها وتوقيتها المناسب بعد موعد الاستيقاظ اليومي ...<br><img src="https://www.alweeam.com.sa/wp-content/uploads/2022/01/23444.jpg" class="rounded" width="350px" height="100px"></p></p>
+        <!--اكتب مصدر الخبر-->
+        <small class="text-muted">العربيه.</small>
+      </a>
+      <a href="محتوى مقالات 2.php" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <!--اكتب رأس قلم الخبر في السطر التالي في مكان (List group item heading)-->
+          <h5 class="mb-1">مواصفات الدولار الأسود الحقيقي
+          </h5>
+          <!--اكتب متى تم عرض الخبر-->
+          <small class="text-muted">3 months ago</small>
+        </div>
+                <!--اكتب في السطر التالي نبذه عن الخبر -->
+        <p class="mb-1">مواصفات الدولار الأسود الحقيقي، من أهم الموضوعات الحيوية التي تشغل بال الكثير من الأشخاص في هذه الفترة، وذلك لما للدولار من قيمة كبيرة في الأسواق المالية العالمية.
+
+          <br><img src="https://mqall.org/wp-content/uploads/2021/12/%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A-1.jpg.webp" class="rounded" width="350px" height="100px"></p></p>
+        <!--اكتب مصدر الخبر-->
+        <small class="text-muted">CNN Arabic</small>
+      </a>
+      <a href="محتوى مقالات5.php" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <!--اكتب رأس قلم الخبر في السطر التالي في مكان (List group item heading)-->
+          <h5 class="mb-1">كيف تربح من كتابة المقالات ؟          </h5>
+          <!--اكتب متى تم عرض الخبر-->
+          <small class="text-muted">2 days ago</small>
+        </div>
+                <!--اكتب في السطر التالي نبذه عن الخبر -->
+        <p class="mb-1">ربما تكون لديك العديد من الأفكار التي تريد مشاركتها، وربما تكون لديك مهارة التحليل الجيد للأمور التي تحدث من حولك، وربما تكون ممن يحب كتابة البوستات على الفيس بوك، لكن كم مرة فكرت في ربح المال من خلال الكتابة<br><img src="https://tse1.mm.bing.net/th?id=OIP.ZOGZIzkDAWkMU_RU32cI8gHaEW&pid=Api&P=0&h=220" class="rounded" width="350px" height="100px"></p></p>
+        <!--اكتب مصدر الخبر-->
+        <small class="text-muted">الجزيرة</small>
+      </a>
+      <a href="#" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <!--اكتب رأس قلم الخبر في السطر التالي في مكان (List group item heading)-->
+          <h5 class="mb-1">اخبار التعليم</h5>
+          <!--اكتب متى تم عرض الخبر-->
+          <small class="text-muted">2 weeks ago</small>
+        </div>
+                <!--اكتب في السطر التالي نبذه عن الخبر -->
+        <p class="mb-1">من مصادر موثوقة، أن وزارة التعليم شكلت لجنة مؤقتة لوضع الإستراتيجيات وخطط التحول الوزارية برئاسة وزير التعليم، وعضوية نائبه لشؤون الجامعات...<br><img src="https://www.okaz.com.sa/uploads/images/2023/05/01/2106690.jpg" class="rounded" width="350px" height="100px"></p></p>
+        <!--اكتب مصدر الخبر-->
+        <small class="text-muted">SkyNews.</small>
+      </a>
+      <a href="محتوى وظايف.php" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <!--اكتب رأس قلم الخبر في السطر التالي في مكان (List group item heading)-->
+          <h5 class="mb-1">وظائف القطاع العام والشركات الكبرى          </h5>
+          <!--اكتب متى تم عرض الخبر-->
+          <small class="text-muted">3 weeks ago</small>
+        </div>
+                <!--اكتب في السطر التالي نبذه عن الخبر -->
+        <p class="mb-1">31/10/2023 معهد الصناعات الغذائية يعلن برنامج الدبلوم المبتدئ بالتوظيف برواتب 6500 اعلان توظيف          <br><img src="https://www.jobs2.net/images/logo.jpg" class="rounded" width="350px" height="100px"></p></p>
+        <!--اكتب مصدر الخبر-->
+        <small class="text-muted">CNN Arabic</small>
+      </a>
+      <a href="محتوى وظايف4.php" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <!--اكتب رأس قلم الخبر في السطر التالي في مكان (List group item heading)-->
+          <h5 class="mb-1">وظائف حكومية في السعودية للرجال والنساء من حملة الدبلوم فأعلى          </h5>
+          <!--اكتب متى تم عرض الخبر-->
+          <small class="text-muted">Today!!</small>
+        </div>
+                <!--اكتب في السطر التالي نبذه عن الخبر -->
+        <p class="mb-1">المدينة الطبية الجامعية في جامعة الملك سعود بالرياض تعلن عن وظائف حكومية وعددها (49) وظيفة متنوعة للرجال والنساء (إداريين، أخصائيين، فنيين، تمريض، قياديين، أطباء)<br><img src="https://i0.wp.com/wazfnynow.com/wp-content/uploads/2020/05/%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%B3%D8%B9%D9%88%D8%AF.jpg?w=500&ssl=1" class="rounded" width="350px" height="100px"></p></p>
+        <!--اكتب مصدر الخبر-->
+        <small class="text-muted">news.ksu.edu.sa</small>
+      </a>
+      <a href="الطقس4.php" class="list-group-item list-group-item-action" style="background-color: skyblue">
+        <div class="d-flex w-100 justify-content-between">
+          <!--اكتب رأس قلم الخبر في السطر التالي في مكان (List group item heading)-->
+          <h5 class="mb-1">جبل اللوز</h5>
+          <!--اكتب متى تم عرض الخبر-->
+          <small class="text-muted">1 year ago</small>
+        </div>
+                <!--اكتب في السطر التالي نبذه عن الخبر -->
+        <p class="mb-1">عادت الثلوج لتلف جبل اللوز الشهير شمال السعودية<br><img src="https://vid.alarabiya.net/images/2023/01/04/cdc7f8fc-0ab5-4c82-8011-c8039c0fb7ad/cdc7f8fc-0ab5-4c82-8011-c8039c0fb7ad_16x9_1200x676.jpeg" class="rounded" width="350px" height="100px"></p></p>
+        <!--اكتب مصدر الخبر-->
+        <small class="text-muted">العربية</small>
+      </a>
+    <br>
+    <br>
+    <div class="container h-1000">
+      <div class="row d-flex justify-content-center align-items-center h-1000">
+        <div class="col-lg-12 col-xl-11">
+          <div class="card text-white" style="border-color: rgb(255, 255, 255);">
+            <div class="card-body p-md-5" style="background-color: white;">
+              <div class="row justify-content-center">
+                <div class="col-md-10 col-lg-7 col-xl-7 order-2 order-lg-1">
+                  <ul class="list-group">
+                    <div class="list-group" style="background-color: white;">
+                      <a href="https://www.canva.com/ar_eg/announcements/templates/" class="list-group-item list-group-item-action"  >
+                        <div class="d-flex w-100 justify-content-between">
+                        </div>
+                        <p class="mb-1">          <br>      <img src="https://marketplace.canva.com/EAE1_2iXlH0/1/0/1143w/canva-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%B9%D9%86-%D9%88%D8%B8%D9%8A%D9%81%D8%A9-%D8%B4%D8%A7%D8%BA%D8%B1%D8%A9-%D8%A8%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%B3%D8%B7%D8%AD-%D9%85%D9%83%D8%AA%D8%A8-%D8%A8%D8%A7%D9%84%D9%84%D9%88%D9%86-%D8%A7%D9%84%D9%88%D8%B1%D8%AF%D9%89-hzxEljKamBE.jpg" class="rounded" width="550px" height="500px"></p>
+                        <small>اعلان</small>
+                      </a>
+        
+<!--<img src="" class="rounded" width="600px" height="500px">-->
+<script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    </body>
+</html>
